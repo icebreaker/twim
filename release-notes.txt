@@ -1,0 +1,85 @@
+Twim - Mobile Twitter Client
+
+Copyright (c) 2006-2010 Tommi Laukkanen
+http://www.substanceofcode.com
+
+Contributors:
+Tommi Laukkanen
+
+
+Release Notes:
+
+v1.17 (February 28th, 2010)
++ Fixed parsing of new kind retweets (no more duplicate texts)
++ Posterous photo upload support
++ TwitnGo photo upload support
++ Themes support
+
+v1.16 (November 2nd, 2009)
++ Option to skip splash screen
++ Google Translate support
++ Paging for home screen and search results
+
+v1.15 (August 22nd, 2009)
++ TwitrPic support
++ Cancel option to media menu
++ Initial auto-refresh option with alarming of new tweets
++ Tab names changed: "Recent">"Home", "Friends">"Following"
++ Fix for non-latin characters when posting photos (thanks Lexa!)
+
+v1.14 (July 30th, 2009)
++ Follow/Unfollow
++ Search
++ Experimental touch screen support
++ Twitvid video upload support
++ Improved screen rotation support
+
+v1.13 (June 27th, 2009)
++ Mobypicture support
++ Video upload support
++ Minimize feature
+
+v1.12 (May 10th, 2009)
++ yfrog support
++ Favorites support
++ File based photo upload
++ Recent timeline not loaded automatically on startup
+
+v1.11
++ Twitgoo support for photos
++ Retweet quote feature
++ Clock is shown in menu screen
+
+v1.10
++ "..from twim" is shown for TwitPic updates
+
+v1.9 (April 4th 2009)
++ Highlight selected status with darker background and wider border
++ Display error message in case of exception
++ Fixed date stamp bug
++ TwitPic support
+
+v1.7 (February 7th 2009)
++ Switch to selected page without loading every page between pages
+
+v1.4 (November 22nd 2008)
++ Unicode support
++ Refresh tweets action
+
+v1.2 (September 13th 2008)
++ Browse public feed
++ Fixed replies browsing
++ Improved performance
++ Improved layout rendering
+
+v1.0 (March 2nd 2008)
++ Transferred byte count
++ Status age (..3 hours ago)
++ About page
+
+v0.5 (September 24th 2007)
++ First public release
++ Browse 20 of the most recent items
++ Browse replies
++ Browse archive
++ Update status
